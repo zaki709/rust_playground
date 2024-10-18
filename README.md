@@ -1,4 +1,4 @@
-# Do Rust codes freely!
+# Run your Rust codes freely!
 
 ## How to use.
 
